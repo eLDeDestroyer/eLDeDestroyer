@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Go (Golang)**, **Laravel** and improving my skills in **backend development**<br> - 🔧 I mostly work with: `Go`, `JavaScript`, `Laravel`, and `Docker`<br> - 🛠️ Tools I use: VS Code, Git, Linux, Postman, and Neovim (sometimes)
+<br> - 🌱 I’m currently learning **Go (Golang)**, **Laravel** and improving my skills in **backend development**<br> - 🔧 I mostly work with: `Go`, `JavaScript`, `Laravel`, and `Docker`<br> - 🛠️ Tools I use: VS Code, Git, Linux, Postman, and Neovim (sometimes)
 
 
 # 💻 Tech Stack:
